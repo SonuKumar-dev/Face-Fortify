@@ -1,5 +1,5 @@
 # Face-Fortify
-Facial Biometric Authentication System to lock folders or files
+Facial Biometric Authentication System to lock folders or files in windows or linux
 
 ### Description: 
 Developed the "Face Fortify" project, an application that combines face recognition and folder encryption for enhanced security. The system registers and verifies users' faces, allowing them to lock and unlock folders securely.
